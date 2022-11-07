@@ -1,0 +1,33 @@
+- type: dataset
+  id: RegalRatNameKingdom
+  values:
+    - Rei
+    - Lord
+    - Príncipe
+    - Imperador
+    - Supremo
+    - Soberano
+    - Mestre
+    - Shogun
+    - Tsar
+    - Apreciador
+    - Presidente
+    - Prefeito
+    - Chefe
+    - Profeta
+
+- type: dataset
+  id: RegalRatNameTitle
+  values:
+    - Praga
+    - Miasma
+    - Manutenção
+    - Lixo
+    - Rato
+    - Verme
+    - Queijo
+    - Mastigador
+    - Sujeira
+    - Esgoto
+    - Bueiro
+    - Queijo
